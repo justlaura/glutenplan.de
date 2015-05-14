@@ -1,0 +1,38 @@
+.container {
+    max-width: 800px;
+}
+
+.header {
+    margin-top: 6rem;
+    text-align: center;
+}
+
+.logo {
+    max-width: 25%;
+}
+
+.title {
+    margin-top: 3rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.subtitle {
+    font-size: 3rem;
+    color: #555555;
+}
+
+.value-props {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.value-prop {
+    margin-top: 1rem;
+}
+
+.value-img {
+    display: block;
+    text-align: center;
+    font-size: 5rem;
+    margin: 2.5rem auto 0;
+}
