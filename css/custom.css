@@ -36,3 +36,134 @@
     font-size: 5rem;
     margin: 2.5rem auto 0;
 }
+
+.text-centered {
+    text-align: center;
+}
+
+.text-justified {
+    text-align: justify;
+}
+
+.plan-section {
+    color: floralwhite;
+    background-color: #222;
+    padding-bottom: 6rem;
+}
+
+.plan-section h4.section-header,
+.newsletter-section h4.section-header,
+.social-media-section h4.section-header{
+    margin-top: 7rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.plan-section .button {
+    width: 8rem;
+    border-color: floralwhite;
+}
+
+.plan-section .button.button-week-label {
+    width: 18rem;
+    background-color: #d3cec4;
+    cursor: default;
+}
+
+.plan-section .button.button-week {
+    background-color: floralwhite;
+}
+
+.plan-section .button.button-weekend {
+    background-color: #ffb800;
+    color: floralwhite;
+}
+
+.plan-section .button.button-today {
+    color: floralwhite;
+
+    background-image: url("../img/glutenplan_logo.gif");
+    background-size: 3.3rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #eb3d00;
+}
+
+.plan-section .image-container {
+    border-radius: 0.4rem;
+    min-height: 23rem;
+    background-image: url("../img/seelachs_bratkartoffeln_gp_de.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}
+
+.fact-icon {
+    display: block;
+    font-size: 2rem;
+}
+
+.recipe-fact {
+    border-radius: 0.4rem;
+    background-color: floralwhite;
+    color: #222;
+    margin: 1.8rem 0;
+    padding: 0.4rem 0;
+}
+
+.recipe-caption {
+    margin-bottom: 1rem;
+
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    letter-spacing: .1rem;
+    font-weight: 600;
+}
+
+.newsletter-section {
+    background-color: #ffb800;
+}
+
+.social-media-section {
+    padding-bottom: 6rem;
+}
+
+.social-media-icon {
+    padding: 0 3rem;
+}
+
+.social-media-icon-small {
+    width: 6rem;
+}
+
+.social-media-icon-big {
+    width: 10rem;
+}
+
+.about-us-caption {
+    margin-bottom: 1rem;
+
+    text-transform: uppercase;
+    font-size: 1.4rem;
+    letter-spacing: .1rem;
+    font-weight: 600;
+}
+
+footer {
+    background-color: #222;
+    color: #818692;
+    font-size: 1.2rem;
+}
+
+.footer-caption {
+    color: floralwhite;
+    margin-bottom: 1rem;
+
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    letter-spacing: .2rem;
+    font-weight: 600;
+}
+
+.footer-lists {
+    padding-top: 5rem;
+}
